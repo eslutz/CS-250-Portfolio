@@ -1,5 +1,8 @@
-# CS-250-Portfolio
-#### Portfolio repo for CS-230
+# CS-250-Project
+
+Project from CS-250 Software Development Life Cycle.
+
+## Project Takeaways
 
 ### How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
